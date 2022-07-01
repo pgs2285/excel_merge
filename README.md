@@ -13,4 +13,4 @@ UI by tkinter
 
 ##사용화면
 
-![]('화면 1.png')
+![image](화면 1.png)
