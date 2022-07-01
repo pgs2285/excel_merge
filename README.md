@@ -11,7 +11,7 @@ tkinter
 단순작업을 간편히 해결하기위해 제작.
 UI by tkinter
 
-##사용화면
+## 사용화면
 
 ![image](photo1.png)
 
